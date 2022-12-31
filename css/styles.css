@@ -10,7 +10,7 @@ h1 {
   font-family: 'Sacramento', cursive;
   font-size: 5.625rem;
   color: #66BFBF;
-  line-height: 2;
+  line-height: 1.6;
 }
 
 h2 {
@@ -170,4 +170,8 @@ p {
 .copyright {
 	color: white;
 	font-size: 0.75rem;
+}
+
+.cont-desc {
+	line-height: 1.5;
 }
